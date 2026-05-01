@@ -1,1 +1,3 @@
 # Project5
+
+This project involves the detailed analysis of interaction patterns between Autonomous Vehicles (AVs) and traditional road users. Commissioned by the U.S. Department of Transportation (USDOT), this study aims to understand how different “agents” (drivers and self-driving systems) behave when navigating complex intersection environments. As the United States moves toward a more automated transportation network, this research provides critical safety and efficiency insights into the co-existence of AVs and human-operated vehicles. The details of the files in this project can be found above.
